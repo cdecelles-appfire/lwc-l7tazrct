@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/cdecelles-appfire.lwc-l7tazrct",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve JLcBVv0nTwuTmzw8SVJ6 --open"
+  }
+}
